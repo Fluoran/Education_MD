@@ -104,12 +104,16 @@ git branch
 git branch *branch name*
 ```
 
+<<<<<<< HEAD
 ### Delete branch
 ```sh
 git branch -d *branch name*
 ```
 
 Переключению на другую ветку
+=======
+### Переключению на другую ветку
+>>>>>>> change_something
 ```sh
 git checkout *название ветки*
 ```
@@ -127,4 +131,9 @@ git log --oneline --graph
 Слияние веток
 ```sh
 git merge *название ветки*
+```
+
+### Удаление ветки
+```sh
+git branch -d *название ветки*
 ```
