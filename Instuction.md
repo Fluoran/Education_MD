@@ -99,17 +99,17 @@ git checkout examplefile.md
 git branch
 ```
 
-### Добавление новой ветки
+### Add new branch
 ```sh
 git branch *название ветки*
 ```
 
-### Удаление ветки
+### Delete branch
 ```sh
 git branch -d *название ветки*
 ```
 
-### Переключению на другую ветку
+### Change branch
 ```sh
 git checkout *название ветки*
 ```
