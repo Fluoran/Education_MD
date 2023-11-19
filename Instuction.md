@@ -101,12 +101,12 @@ git branch
 
 ### Добавление новой ветки
 ```sh
-git branch *название ветки*
+git branch *branch name*
 ```
 
 ### Удаление ветки
 ```sh
-git branch -d *название ветки*
+git branch -d *branch name*
 ```
 
 ### Переключению на другую ветку
