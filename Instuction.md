@@ -89,5 +89,6 @@ git checkout examplefile.md
 
 ## Добавим как добавлять картинки в MarkDown
 
-Это KING
+Это KING's
 ![WE ARE THE KINGS](KING.jpg)
+
